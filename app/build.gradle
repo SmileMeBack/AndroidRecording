@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "androidrecording.skd.com.androidrecording"
+        applicationId "skd.com.androidrecording"
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
